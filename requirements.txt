@@ -4,3 +4,7 @@ langchain_openai
 langchain_groq
 langchain_community
 langchain_core
+fastapi
+uvicorn
+langserve
+sse_starlette
